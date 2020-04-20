@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young clusters on Giacomo Cordoni</title>
+    <link>https://GiacomoCordoni.github.io/tags/young-clusters/</link>
+    <description>Recent content in Young clusters on Giacomo Cordoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://GiacomoCordoni.github.io/tags/young-clusters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Galactic Open clusters</title>
+      <link>https://GiacomoCordoni.github.io/project/galacticocs/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://GiacomoCordoni.github.io/project/galacticocs/</guid>
+      <description>Our reserach proved that nearby young clusters exhibits an extended main-sequence turnoff and a broadened main sequence. This is the first evidence of multiple stellar populations in a Galactic open cluster.</description>
+    </item>
+    
+    <item>
+      <title>Young Magellanic Clouds clusters</title>
+      <link>https://GiacomoCordoni.github.io/project/magellanicgcs/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://GiacomoCordoni.github.io/project/magellanicgcs/</guid>
+      <description>The discovery of multiple populations in young and intermediate-age clusters has been one of the major findings in the field of stellar populations of the last decade.</description>
+    </item>
+    
+  </channel>
+</rss>

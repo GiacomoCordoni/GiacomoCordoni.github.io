@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_6719634fd29d419d9cbe7fac31b2c386 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_6719634fd29d419d9cbe7fac31b2c386" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_6719634fd29d419d9cbe7fac31b2c386 = L.map(
+        'map_6719634fd29d419d9cbe7fac31b2c386', {
+        center: [38.40797, 11.88586],
+        zoom: 2.5,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_e8cf6e12ec5940e4aabb0d1e1b7d798d = L.tileLayer(
+        'http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}',
+        {
+        "attribution": "USGS style",
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+    
+        var marker_639c01130f4b4d5591b221219366ca43 = L.marker(
+            [45.40797, 11.88586],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_f127a1b5ff6242f8b067b8cffa2ab9c5 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b6c201cb798e4b7289bed60fc50ca0f3 = $(`<div id="html_b6c201cb798e4b7289bed60fc50ca0f3" style="width: 100.0%; height: 100.0%;">ICYAA, Padova</div>`)[0];
+                popup_f127a1b5ff6242f8b067b8cffa2ab9c5.setContent(html_b6c201cb798e4b7289bed60fc50ca0f3);
+            
+
+            marker_639c01130f4b4d5591b221219366ca43.bindPopup(popup_f127a1b5ff6242f8b067b8cffa2ab9c5)
+            ;
+
+            
+        
+    
+        var marker_fab0b760c74a400abd2f7a322444fb46 = L.marker(
+            [49.39875, 8.672434],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_f77e7a2e083c434083acce0bb58d84e6 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_56c97f14ef584c2584dddf691f613ac6 = $(`<div id="html_56c97f14ef584c2584dddf691f613ac6" style="width: 100.0%; height: 100.0%;">MPIA, Heidelberg</div>`)[0];
+                popup_f77e7a2e083c434083acce0bb58d84e6.setContent(html_56c97f14ef584c2584dddf691f613ac6);
+            
+
+            marker_fab0b760c74a400abd2f7a322444fb46.bindPopup(popup_f77e7a2e083c434083acce0bb58d84e6)
+            ;
+
+            
+        
+    
+        var marker_fc0049db6965408cab8cddef07a270e7 = L.marker(
+            [40.78968, -77.858063],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_5d0c47a5170a437684e920954b32ab76 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b7c113b06dbd4ef2aada9f74501f3676 = $(`<div id="html_b7c113b06dbd4ef2aada9f74501f3676" style="width: 100.0%; height: 100.0%;">PSU, State College</div>`)[0];
+                popup_5d0c47a5170a437684e920954b32ab76.setContent(html_b7c113b06dbd4ef2aada9f74501f3676);
+            
+
+            marker_fc0049db6965408cab8cddef07a270e7.bindPopup(popup_5d0c47a5170a437684e920954b32ab76)
+            ;
+
+            
+        
+    
+        var marker_faded38451074c04a48014a716d8b4d2 = L.marker(
+            [39.165325, -86.526382],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_59bac8801a0247be95c6398b9276f452 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b0125dd9fe0d44889d73d655112933e0 = $(`<div id="html_b0125dd9fe0d44889d73d655112933e0" style="width: 100.0%; height: 100.0%;">Indiana University, Bloomington</div>`)[0];
+                popup_59bac8801a0247be95c6398b9276f452.setContent(html_b0125dd9fe0d44889d73d655112933e0);
+            
+
+            marker_faded38451074c04a48014a716d8b4d2.bindPopup(popup_59bac8801a0247be95c6398b9276f452)
+            ;
+
+            
+        
+    
+        var marker_aa79954f43ec45009dafa20c2b48639e = L.marker(
+            [44.494888, 11.342616],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_13eafd8708e944dfa4db578a3a7d4a3a = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_4e15ddff15f14387af3b447256eb91a5 = $(`<div id="html_4e15ddff15f14387af3b447256eb91a5" style="width: 100.0%; height: 100.0%;">IAU, Bologna</div>`)[0];
+                popup_13eafd8708e944dfa4db578a3a7d4a3a.setContent(html_4e15ddff15f14387af3b447256eb91a5);
+            
+
+            marker_aa79954f43ec45009dafa20c2b48639e.bindPopup(popup_13eafd8708e944dfa4db578a3a7d4a3a)
+            ;
+
+            
+        
+    
+        var marker_82e7433c55954e878f09e46422af1ce8 = L.marker(
+            [45.764042, 4.835659],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_c47a00a6eb2a4710a75540b603146d8e = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_0b2fcc8404c44634afde98c3d26d9fa9 = $(`<div id="html_0b2fcc8404c44634afde98c3d26d9fa9" style="width: 100.0%; height: 100.0%;">EWASS, Lyon</div>`)[0];
+                popup_c47a00a6eb2a4710a75540b603146d8e.setContent(html_0b2fcc8404c44634afde98c3d26d9fa9);
+            
+
+            marker_82e7433c55954e878f09e46422af1ce8.bindPopup(popup_c47a00a6eb2a4710a75540b603146d8e)
+            ;
+
+            
+        
+    
+        var marker_7d89c0632e104884aac76e400a9aeaec = L.marker(
+            [-35.28346, 149.12807],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        
+    
+            var popup_3d54e0ac027d487ca86e5a2cae89a0ec = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_679f661849dc453bb8cbd8440f898e1e = $(`<div id="html_679f661849dc453bb8cbd8440f898e1e" style="width: 100.0%; height: 100.0%;">RSAA, Canberra</div>`)[0];
+                popup_3d54e0ac027d487ca86e5a2cae89a0ec.setContent(html_679f661849dc453bb8cbd8440f898e1e);
+            
+
+            marker_7d89c0632e104884aac76e400a9aeaec.bindPopup(popup_3d54e0ac027d487ca86e5a2cae89a0ec)
+            ;
+
+            
+        
+</script>

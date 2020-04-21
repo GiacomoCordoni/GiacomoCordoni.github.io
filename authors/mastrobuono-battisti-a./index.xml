@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mastrobuono-Battisti A. on Giacomo Cordoni</title>
-    <link>https://GiacomoCordoni.github.io/authors/mastrobuono-battisti-a./</link>
+    <link>http://www.giacomocordoni.me/authors/mastrobuono-battisti-a./</link>
     <description>Recent content in Mastrobuono-Battisti A. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://GiacomoCordoni.github.io/authors/mastrobuono-battisti-a./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.giacomocordoni.me/authors/mastrobuono-battisti-a./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Three-component Kinematics of Multiple Stellar Populations in Globular Clusters with Gaia and VLT</title>
-      <link>https://GiacomoCordoni.github.io/publication/paper11/</link>
+      <link>http://www.giacomocordoni.me/publication/paper11/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://GiacomoCordoni.github.io/publication/paper11/</guid>
+      <guid>http://www.giacomocordoni.me/publication/paper11/</guid>
       <description>Analysis of the internal kinematics of multiple stellar populations in 7 galactic Globular clusters</description>
     </item>
     

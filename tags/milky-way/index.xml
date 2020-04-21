@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milky Way on Giacomo Cordoni</title>
-    <link>https://GiacomoCordoni.github.io/tags/milky-way/</link>
+    <link>http://www.giacomocordoni.me/tags/milky-way/</link>
     <description>Recent content in Milky Way on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://GiacomoCordoni.github.io/tags/milky-way/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.giacomocordoni.me/tags/milky-way/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Galactic archeology through Very Metal-Poor stars</title>
-      <link>https://GiacomoCordoni.github.io/project/metalpoor/</link>
+      <link>http://www.giacomocordoni.me/project/metalpoor/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://GiacomoCordoni.github.io/project/metalpoor/</guid>
+      <guid>http://www.giacomocordoni.me/project/metalpoor/</guid>
       <description>Very Metal-Poor stara are very rare objects and they are key ingredients for the understanding of the formation of the Milky Way, offering a unique perspective into the earliest phases of our infant Galaxy.</description>
     </item>
     

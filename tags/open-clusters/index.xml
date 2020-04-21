@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Clusters on Giacomo Cordoni</title>
-    <link>http://www.giacomocordoni.me/tags/open-clusters/</link>
+    <link>https://www.giacomocordoni.me/tags/open-clusters/</link>
     <description>Recent content in Open Clusters on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.giacomocordoni.me/tags/open-clusters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.giacomocordoni.me/tags/open-clusters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GALFOR</title>
-      <link>http://www.giacomocordoni.me/project/galfor/</link>
+      <link>https://www.giacomocordoni.me/project/galfor/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.giacomocordoni.me/project/galfor/</guid>
+      <guid>https://www.giacomocordoni.me/project/galfor/</guid>
       <description>GALFOR is an ERC funded project of Galactic archaeology (ERC-2016-STG, 716082) to address such hot topics of modern astrophysics</description>
     </item>
     

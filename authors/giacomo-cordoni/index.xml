@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giacomo Cordoni</title>
-    <link>http://www.giacomocordoni.me/authors/giacomo-cordoni/</link>
+    <link>https://www.giacomocordoni.me/authors/giacomo-cordoni/</link>
     <description>Recent content on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.giacomocordoni.me/authors/giacomo-cordoni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.giacomocordoni.me/authors/giacomo-cordoni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>European Week of Astronomy and Space Science (EWASS)</title>
-      <link>http://www.giacomocordoni.me/talk/conf4/</link>
+      <link>https://www.giacomocordoni.me/talk/conf4/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.giacomocordoni.me/talk/conf4/</guid>
+      <guid>https://www.giacomocordoni.me/talk/conf4/</guid>
       <description>Dynamics of Multiple Stellar Populations in Globular clusters with Gaia</description>
     </item>
     
     <item>
       <title>IAU - Star Clusters. From the Milky Way to the Early Universe</title>
-      <link>http://www.giacomocordoni.me/talk/conf3/</link>
+      <link>https://www.giacomocordoni.me/talk/conf3/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.giacomocordoni.me/talk/conf3/</guid>
+      <guid>https://www.giacomocordoni.me/talk/conf3/</guid>
       <description>Kinematics of Multiple Stellar Populations in Globular clusters with Gaia</description>
     </item>
     
     <item>
       <title>Galaxy coffee</title>
-      <link>http://www.giacomocordoni.me/talk/conf2/</link>
+      <link>https://www.giacomocordoni.me/talk/conf2/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.giacomocordoni.me/talk/conf2/</guid>
+      <guid>https://www.giacomocordoni.me/talk/conf2/</guid>
       <description>Kinematics of Multiple Stellar Populations in Globular clusters with Gaia</description>
     </item>
     
     <item>
       <title>International Conference for Young Astronomers and Astrophysicists (ICYAA)</title>
-      <link>http://www.giacomocordoni.me/talk/conf1/</link>
+      <link>https://www.giacomocordoni.me/talk/conf1/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.giacomocordoni.me/talk/conf1/</guid>
+      <guid>https://www.giacomocordoni.me/talk/conf1/</guid>
       <description>Multiple stellar populations in Magellanic Cloud clusters - disentangling between age spread and rotation</description>
     </item>
     

@@ -17,7 +17,7 @@
     
     <meta name="viewport" content="width=device-width,
         initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <style>#map_6719634fd29d419d9cbe7fac31b2c386 {
+    <style>#map_72e7324e0b91453589d6da49f1d0a99f {
         position: relative;
         width: 100.0%;
         height: 100.0%;
@@ -25,10 +25,13 @@
         top: 0.0%;
         }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
 </head>
 <body>    
     
-    <div class="folium-map" id="map_6719634fd29d419d9cbe7fac31b2c386" ></div>
+    <div class="folium-map" id="map_72e7324e0b91453589d6da49f1d0a99f" ></div>
 </body>
 <script>    
     
@@ -36,10 +39,10 @@
         var bounds = null;
     
 
-    var map_6719634fd29d419d9cbe7fac31b2c386 = L.map(
-        'map_6719634fd29d419d9cbe7fac31b2c386', {
-        center: [38.40797, 11.88586],
-        zoom: 2.5,
+    var map_72e7324e0b91453589d6da49f1d0a99f = L.map(
+        'map_72e7324e0b91453589d6da49f1d0a99f', {
+        center: [10.0, 25.0],
+        zoom: 1.4,
         maxBounds: bounds,
         layers: [],
         worldCopyJump: false,
@@ -49,7 +52,7 @@
 
 
     
-    var tile_layer_e8cf6e12ec5940e4aabb0d1e1b7d798d = L.tileLayer(
+    var tile_layer_724baec5edc64cc8bcee631b29cf405a = L.tileLayer(
         'http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}',
         {
         "attribution": "USGS style",
@@ -61,166 +64,324 @@
         "opacity": 1,
         "subdomains": "abc",
         "tms": false
-}).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+}).addTo(map_72e7324e0b91453589d6da49f1d0a99f);
     
-        var marker_639c01130f4b4d5591b221219366ca43 = L.marker(
-            [45.40797, 11.88586],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
-        
+            var marker_cluster_33a6e2e10c954efbb1af903461f742e2 = L.markerClusterGroup({});
+            map_72e7324e0b91453589d6da49f1d0a99f.addLayer(marker_cluster_33a6e2e10c954efbb1af903461f742e2);
+            
     
-            var popup_f127a1b5ff6242f8b067b8cffa2ab9c5 = L.popup({maxWidth: '100%'
+            var circle_marker_233b25ae888449d488a1b1b5c769e988 = L.circleMarker(
+                [45.40797, 11.88586],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#dc143c",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#dc143c",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_8f3ee89a29a04c329300affb279c486a = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_b6c201cb798e4b7289bed60fc50ca0f3 = $(`<div id="html_b6c201cb798e4b7289bed60fc50ca0f3" style="width: 100.0%; height: 100.0%;">ICYAA, Padova</div>`)[0];
-                popup_f127a1b5ff6242f8b067b8cffa2ab9c5.setContent(html_b6c201cb798e4b7289bed60fc50ca0f3);
+                var html_7d94eced19e44bcfb10e200b70ee8b90 = $(`<div id="html_7d94eced19e44bcfb10e200b70ee8b90" style="width: 100.0%; height: 100.0%;">ICYAA, Padova Conference</div>`)[0];
+                popup_8f3ee89a29a04c329300affb279c486a.setContent(html_7d94eced19e44bcfb10e200b70ee8b90);
             
 
-            marker_639c01130f4b4d5591b221219366ca43.bindPopup(popup_f127a1b5ff6242f8b067b8cffa2ab9c5)
+            circle_marker_233b25ae888449d488a1b1b5c769e988.bindPopup(popup_8f3ee89a29a04c329300affb279c486a)
             ;
 
             
         
     
-        var marker_fab0b760c74a400abd2f7a322444fb46 = L.marker(
-            [49.39875, 8.672434],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_233b25ae888449d488a1b1b5c769e988.bindTooltip(
+            `<div>`
+            + `ICYAA, Padova
+Conference` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_f77e7a2e083c434083acce0bb58d84e6 = L.popup({maxWidth: '100%'
+            var circle_marker_e5d570f559a34f1ab05d06b8cb672836 = L.circleMarker(
+                [49.39875, 8.672434],
+                {
+  "bubblingMouseEvents": true,
+  "color": "navy",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "navy",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_a988a762ac8b40d5be7309ffa747e881 = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_56c97f14ef584c2584dddf691f613ac6 = $(`<div id="html_56c97f14ef584c2584dddf691f613ac6" style="width: 100.0%; height: 100.0%;">MPIA, Heidelberg</div>`)[0];
-                popup_f77e7a2e083c434083acce0bb58d84e6.setContent(html_56c97f14ef584c2584dddf691f613ac6);
+                var html_8741e9760caf4996b1ebf1928cda316a = $(`<div id="html_8741e9760caf4996b1ebf1928cda316a" style="width: 100.0%; height: 100.0%;">MPIA, Heidelberg Visiting Ph.D.</div>`)[0];
+                popup_a988a762ac8b40d5be7309ffa747e881.setContent(html_8741e9760caf4996b1ebf1928cda316a);
             
 
-            marker_fab0b760c74a400abd2f7a322444fb46.bindPopup(popup_f77e7a2e083c434083acce0bb58d84e6)
+            circle_marker_e5d570f559a34f1ab05d06b8cb672836.bindPopup(popup_a988a762ac8b40d5be7309ffa747e881)
             ;
 
             
         
     
-        var marker_fc0049db6965408cab8cddef07a270e7 = L.marker(
-            [40.78968, -77.858063],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_e5d570f559a34f1ab05d06b8cb672836.bindTooltip(
+            `<div>`
+            + `MPIA, Heidelberg
+Visiting Ph.D.` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_5d0c47a5170a437684e920954b32ab76 = L.popup({maxWidth: '100%'
+            var circle_marker_57445c47f9894a1cb8591ed98643e7a1 = L.circleMarker(
+                [40.78968, -77.858063],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#f5fcff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#f5fcff",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_3724e737a68a4e5587bbbe07818f598b = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_b7c113b06dbd4ef2aada9f74501f3676 = $(`<div id="html_b7c113b06dbd4ef2aada9f74501f3676" style="width: 100.0%; height: 100.0%;">PSU, State College</div>`)[0];
-                popup_5d0c47a5170a437684e920954b32ab76.setContent(html_b7c113b06dbd4ef2aada9f74501f3676);
+                var html_89e7207d734e435ba63398531c46896a = $(`<div id="html_89e7207d734e435ba63398531c46896a" style="width: 100.0%; height: 100.0%;">PSU, State College Summer school</div>`)[0];
+                popup_3724e737a68a4e5587bbbe07818f598b.setContent(html_89e7207d734e435ba63398531c46896a);
             
 
-            marker_fc0049db6965408cab8cddef07a270e7.bindPopup(popup_5d0c47a5170a437684e920954b32ab76)
+            circle_marker_57445c47f9894a1cb8591ed98643e7a1.bindPopup(popup_3724e737a68a4e5587bbbe07818f598b)
             ;
 
             
         
     
-        var marker_faded38451074c04a48014a716d8b4d2 = L.marker(
-            [39.165325, -86.526382],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_57445c47f9894a1cb8591ed98643e7a1.bindTooltip(
+            `<div>`
+            + `PSU, State College
+Summer school` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_59bac8801a0247be95c6398b9276f452 = L.popup({maxWidth: '100%'
+            var circle_marker_67d8486cba144120954074a2c2467880 = L.circleMarker(
+                [39.165325, -86.526382],
+                {
+  "bubblingMouseEvents": true,
+  "color": "navy",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "navy",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_c426a0f1b60a4a07985207bf776bf16e = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_b0125dd9fe0d44889d73d655112933e0 = $(`<div id="html_b0125dd9fe0d44889d73d655112933e0" style="width: 100.0%; height: 100.0%;">Indiana University, Bloomington</div>`)[0];
-                popup_59bac8801a0247be95c6398b9276f452.setContent(html_b0125dd9fe0d44889d73d655112933e0);
+                var html_3790f7683ec045dea8761c2c4940dea8 = $(`<div id="html_3790f7683ec045dea8761c2c4940dea8" style="width: 100.0%; height: 100.0%;">Indiana University, Bloomington Visiting Ph.D.</div>`)[0];
+                popup_c426a0f1b60a4a07985207bf776bf16e.setContent(html_3790f7683ec045dea8761c2c4940dea8);
             
 
-            marker_faded38451074c04a48014a716d8b4d2.bindPopup(popup_59bac8801a0247be95c6398b9276f452)
+            circle_marker_67d8486cba144120954074a2c2467880.bindPopup(popup_c426a0f1b60a4a07985207bf776bf16e)
             ;
 
             
         
     
-        var marker_aa79954f43ec45009dafa20c2b48639e = L.marker(
-            [44.494888, 11.342616],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_67d8486cba144120954074a2c2467880.bindTooltip(
+            `<div>`
+            + `Indiana University, Bloomington
+Visiting Ph.D.` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_13eafd8708e944dfa4db578a3a7d4a3a = L.popup({maxWidth: '100%'
+            var circle_marker_91276f7d4b9b45a2b33bde460e6d5687 = L.circleMarker(
+                [44.494888, 11.342616],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#dc143c",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#dc143c",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_b2e305015271436d92372fe0968c2d47 = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_4e15ddff15f14387af3b447256eb91a5 = $(`<div id="html_4e15ddff15f14387af3b447256eb91a5" style="width: 100.0%; height: 100.0%;">IAU, Bologna</div>`)[0];
-                popup_13eafd8708e944dfa4db578a3a7d4a3a.setContent(html_4e15ddff15f14387af3b447256eb91a5);
+                var html_a712f16518c549c7b6dd7feaf2540077 = $(`<div id="html_a712f16518c549c7b6dd7feaf2540077" style="width: 100.0%; height: 100.0%;">IAU, Bologna Conference</div>`)[0];
+                popup_b2e305015271436d92372fe0968c2d47.setContent(html_a712f16518c549c7b6dd7feaf2540077);
             
 
-            marker_aa79954f43ec45009dafa20c2b48639e.bindPopup(popup_13eafd8708e944dfa4db578a3a7d4a3a)
+            circle_marker_91276f7d4b9b45a2b33bde460e6d5687.bindPopup(popup_b2e305015271436d92372fe0968c2d47)
             ;
 
             
         
     
-        var marker_82e7433c55954e878f09e46422af1ce8 = L.marker(
-            [45.764042, 4.835659],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_91276f7d4b9b45a2b33bde460e6d5687.bindTooltip(
+            `<div>`
+            + `IAU, Bologna
+Conference` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_c47a00a6eb2a4710a75540b603146d8e = L.popup({maxWidth: '100%'
+            var circle_marker_740ed3b82a254059beb09bfbfdd6de62 = L.circleMarker(
+                [45.764042, 4.835659],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#dc143c",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "#dc143c",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_2acfb518d53645b9bf3953b2f430ee93 = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_0b2fcc8404c44634afde98c3d26d9fa9 = $(`<div id="html_0b2fcc8404c44634afde98c3d26d9fa9" style="width: 100.0%; height: 100.0%;">EWASS, Lyon</div>`)[0];
-                popup_c47a00a6eb2a4710a75540b603146d8e.setContent(html_0b2fcc8404c44634afde98c3d26d9fa9);
+                var html_1b09b0feaf2143b4b9bb8b857a1d34af = $(`<div id="html_1b09b0feaf2143b4b9bb8b857a1d34af" style="width: 100.0%; height: 100.0%;">EWASS, Lyon Conference</div>`)[0];
+                popup_2acfb518d53645b9bf3953b2f430ee93.setContent(html_1b09b0feaf2143b4b9bb8b857a1d34af);
             
 
-            marker_82e7433c55954e878f09e46422af1ce8.bindPopup(popup_c47a00a6eb2a4710a75540b603146d8e)
+            circle_marker_740ed3b82a254059beb09bfbfdd6de62.bindPopup(popup_2acfb518d53645b9bf3953b2f430ee93)
             ;
 
             
         
     
-        var marker_7d89c0632e104884aac76e400a9aeaec = L.marker(
-            [-35.28346, 149.12807],
-            {
-                icon: new L.Icon.Default(),
-                }
-            ).addTo(map_6719634fd29d419d9cbe7fac31b2c386);
+        circle_marker_740ed3b82a254059beb09bfbfdd6de62.bindTooltip(
+            `<div>`
+            + `EWASS, Lyon
+Conference` + `</div>`,
+            {"sticky": true}
+        );
         
     
-            var popup_3d54e0ac027d487ca86e5a2cae89a0ec = L.popup({maxWidth: '100%'
+            var circle_marker_0e45ff11298f4771a62d73b7eadef302 = L.circleMarker(
+                [-35.28346, 149.12807],
+                {
+  "bubblingMouseEvents": true,
+  "color": "navy",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "navy",
+  "fillOpacity": 0.7,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 5,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_72e7324e0b91453589d6da49f1d0a99f);
+            
+    
+            var popup_fa3e05fcd2194b8f941de9729316a8f0 = L.popup({maxWidth: '100%'
             
             });
 
             
-                var html_679f661849dc453bb8cbd8440f898e1e = $(`<div id="html_679f661849dc453bb8cbd8440f898e1e" style="width: 100.0%; height: 100.0%;">RSAA, Canberra</div>`)[0];
-                popup_3d54e0ac027d487ca86e5a2cae89a0ec.setContent(html_679f661849dc453bb8cbd8440f898e1e);
+                var html_0d33713014e2432294c06215eb000f81 = $(`<div id="html_0d33713014e2432294c06215eb000f81" style="width: 100.0%; height: 100.0%;">RSAA, Canberra Visiting Ph.D.</div>`)[0];
+                popup_fa3e05fcd2194b8f941de9729316a8f0.setContent(html_0d33713014e2432294c06215eb000f81);
             
 
-            marker_7d89c0632e104884aac76e400a9aeaec.bindPopup(popup_3d54e0ac027d487ca86e5a2cae89a0ec)
+            circle_marker_0e45ff11298f4771a62d73b7eadef302.bindPopup(popup_fa3e05fcd2194b8f941de9729316a8f0)
             ;
 
             
+        
+    
+        circle_marker_0e45ff11298f4771a62d73b7eadef302.bindTooltip(
+            `<div>`
+            + `RSAA, Canberra
+Visiting Ph.D.` + `</div>`,
+            {"sticky": true}
+        );
         
 </script>

@@ -6,10 +6,28 @@
     <description>Recent content in 2 on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.giacomocordoni.me/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>
+      <link>https://www.giacomocordoni.me/publication/paper14/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/publication/paper14/</guid>
+      <description>Internal dynamics of anomalous/type-II globular clusters combining Gaia astrometric information with HST proper motions</description>
+    </item>
+    
+    <item>
+      <title>A chromosome map to unveil stellar populations with different magnesium abundances. The case of Omega Centauri</title>
+      <link>https://www.giacomocordoni.me/publication/paper15/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/publication/paper15/</guid>
+      <description>A chromosome map to unveil stellar populations with different magnesium abundances. The case of Omega Centauri</description>
+    </item>
     
     <item>
       <title>The Hubble Space Telescope UV Legacy Survey of Galactic globular clusters - XXI. Binaries among multiple stellar populations</title>

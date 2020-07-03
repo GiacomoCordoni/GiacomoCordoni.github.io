@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Norris J. E. on Giacomo Cordoni</title>
+    <link>https://www.giacomocordoni.me/authors/norris-j.-e./</link>
+    <description>Recent content in Norris J. E. on Giacomo Cordoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.giacomocordoni.me/authors/norris-j.-e./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>
+      <link>https://www.giacomocordoni.me/publication/paper14/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/publication/paper14/</guid>
+      <description>Internal dynamics of anomalous/type-II globular clusters combining Gaia astrometric information with HST proper motions</description>
+    </item>
+    
+  </channel>
+</rss>

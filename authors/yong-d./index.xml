@@ -6,10 +6,19 @@
     <description>Recent content in Yong D. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.giacomocordoni.me/authors/yong-d./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>
+      <link>https://www.giacomocordoni.me/publication/paper14/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/publication/paper14/</guid>
+      <description>Internal dynamics of anomalous/type-II globular clusters combining Gaia astrometric information with HST proper motions</description>
+    </item>
     
     <item>
       <title>Multiple populations in globular clusters and their parent galaxies</title>

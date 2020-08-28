@@ -6,10 +6,19 @@
     <description>Recent content on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.giacomocordoni.me/authors/giacomo-cordoni/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Local Group Assembly and Evolution</title>
+      <link>https://www.giacomocordoni.me/talk/conf5/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/talk/conf5/</guid>
+      <description>Dynamics of Multiple Stellar Populations in type-II Globular clusters with Gaia and HST</description>
+    </item>
     
     <item>
       <title>European Week of Astronomy and Space Science (EWASS)</title>

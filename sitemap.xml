@@ -18,13 +18,30 @@
   </url>
   
   <url>
-    <loc>https://www.giacomocordoni.me/publication_types/2/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://www.giacomocordoni.me/authors/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.giacomocordoni.me/authors/</loc>
+    <loc>https://www.giacomocordoni.me/authors/giacomo-cordoni/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.giacomocordoni.me/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.giacomocordoni.me/talk/conf5/</loc>
+    <lastmod>2020-08-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.giacomocordoni.me/publication_types/2/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -50,12 +67,6 @@
   <url>
     <loc>https://www.giacomocordoni.me/publication/paper14/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.giacomocordoni.me/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -353,12 +364,6 @@
   <url>
     <loc>https://www.giacomocordoni.me/talk/conf4/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.giacomocordoni.me/authors/giacomo-cordoni/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -6,10 +6,19 @@
     <description>Recent content in Yong D. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.giacomocordoni.me/authors/yong-d./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exploring the Galaxy&#39;s halo and very metal weak thick disk with SkyMapper and Gaia DR2</title>
+      <link>https://www.giacomocordoni.me/publication/paper17/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/publication/paper17/</guid>
+      <description>Galactic archeology with the dynamics of Extremely Metal-Poor stras from the &lt;em&gt;SkyMapper survey for Extremely Metal-Poor stars&lt;/em&gt;. and astrometry from Gaia DR2 to investigate the kinematics of a sample of 475 stars with a metallicity range of  -6.5&amp;lt;=[Fe/H]&amp;lt;=-2.05 dex. Exploiting the action map, we identify 16 and 40 stars dynamically consistent with the &lt;em&gt;Gaia Sausage&lt;/em&gt; and &lt;em&gt;Gaia Sequoia&lt;/em&gt; accretion events, respectively. The most metal-poor of these candidates have metallicities of  [Fe/H]=-3.31  and  [Fe/H]=-3.74 , respectively, helping to define the low-metallicity tail of the progenitors involved in the accretion events. We also find, consistent with other studies, that 21% of the sample have orbits that remain confined to within 3kpc of the Galactic plane, i.e., |Z&lt;em&gt;{max}|&amp;lt;=3 kpc. Of particular interest is a sub-sample (11% of the total) of low |Z&lt;/em&gt;{max}| stars with low eccentricities and prograde motions. The lowest metallicity of these stars has [Fe/H] = -4.30 and the sub-sample is best interpreted as the very low-metallicity tail of the metal-weak thick disk population. The low |Z&lt;em&gt;{max}|, low eccentricity stars with retrograde orbits are likely accreted, while the low |Z&lt;/em&gt;{max}|, high eccentricity pro- and retrograde stars are plausibly associated with the &lt;em&gt;Gaia Sausage&lt;/em&gt; system. We find that a small fraction of our sample (4% of the total) is likely escaping from the Galaxy, and postulate that these stars have gained energy from gravitational interactions that occur when infalling dwarf galaxies are tidally disrupted.</description>
+    </item>
     
     <item>
       <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>

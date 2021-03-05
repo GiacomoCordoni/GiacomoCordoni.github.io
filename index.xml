@@ -6,7 +6,7 @@
     <description>Recent content on Giacomo Cordoni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://www.giacomocordoni.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -81,6 +81,15 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cool Stars 20.5 - virtually cool</title>
+      <link>https://www.giacomocordoni.me/talk/conf6/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.giacomocordoni.me/talk/conf6/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -209,6 +218,8 @@ These very rare objects are key ingredients for the understanding of the formati
 Furthermore, in the last years, the advent of Gaia DR2, coupled with the outstanding improvements of the numerical techniques, led to the discovery of the debris of, at least, two major accretion events.
 We are now beginning to unveil the complexity of our Galaxy.&lt;br /&gt;
 In this project, we combine the study of a large sample of very low-metallicity stars with the look for accreted stars, to gain an unprecedented view into the early life of the Milky Way.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More info&lt;/em&gt;: &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2020MNRAS.tmp.3219C/abstract&#34; target=&#34;_blank&#34;&gt;Cordoni et al. (2020c)&lt;/a&gt;&lt;/p&gt;
 
 &lt;!-- **TRY**
 &lt;iframe src=&#34;../../static/img/orbit.html&#34; width=&#34;100%&#34; height=&#34;650&#34;&gt;&lt;/iframe&gt;
@@ -382,14 +393,11 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <description>&lt;p&gt;Old Galactic Globular clusters (GCs) were once considered simple objects, composed of a simple stellar population, where all stars share the same age, chemistry and metallicity. In the last decades, the exquisite photometry provided by the &lt;em&gt;Hubble Space Telescope&lt;/em&gt; revealed the presence of Multiple Stellar populations with different light-element abundance in nearly all GCs. Their origin is one of the greatest mysteries of modern astrophysics.
 The internal dynamics of multiple stellar populations in globular clusters (GCs) provides unique constraints on the
 physical processes responsible for their formation. Specifically, the present-day kinematics of cluster stars, such as rotation and velocity dispersion, could be related to the initial configuration of the system. In recent work, we provided the first study of the kinematics of different stellar populations in NGC 0104 over a large field of view in
-the plane of the sky, exploiting Gaia Data Release 2 (DR2) proper motions combined with multi-band ground-based photometry. In this paper, we combine Gaia DR2 proper motions with Very Large Telescope radial
-velocities to investigate the kinematics along the line of sight and in the plane of the sky of multiple populations in
-seven GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 6121, NGC 6254, NGC 6752, and NGC 6838. Among the analyzed clusters, only NGC 0104 and NGC 5904 show significant rotation. Separating our sample into
-two groups of first- and second-population stars (1P and 2P) we find that overall these two populations exhibit a
-similar rotation pattern in NGC 0104. However, some hints of different rotation are observed in the external
-regions of this cluster. Interestingly, 1P and 2P stars in NGC 5904 show different rotation curves, with distinct
-phases and such differences are significant at the ∼2.5σ level. The analysis of the velocity–dispersion profiles of
-multiple populations confirms that 2P stars of NGC 0104 show stronger anisotropy than the 1P.&lt;/p&gt;
+the plane of the sky, exploiting Gaia Data Release 2 (DR2) proper motions combined with multi-band ground-based photometry. In my &lt;em&gt;Ph.D.&lt;/em&gt;, I combine Gaia DR2 proper motions and Very Large Telescope radial
+velocities with space- and ground-based photometry to investigate the kinematics along the line of sight and in the plane of the sky of multiple populations in
+seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 6121, NGC 6254, NGC 6752, and NGC 6838 and 2 &lt;em&gt;type-II&lt;/em&gt; GCs, NGC 5139 (Omega Centauri) and NGC 6656 (M 22). The analysis shows evidences of a different internal dynamics of at least 3 globular clusters. Furthermore, the analysis of stellar populations with different light- and heavy-element abundances reveals interensting results.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;More info&lt;/em&gt; : &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2020ApJ...889...18C/abstract&#34; target=&#34;_blank&#34;&gt;Cordoni et al. (2020)a&lt;/a&gt; and &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2020ApJ...898..147C/abstract&#34; target=&#34;_blank&#34;&gt;Cordoni et al. (2020b)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -746,21 +754,17 @@ multiple populations confirms that 2P stars of NGC 0104 show stronger anisotropy
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.giacomocordoni.me/project/galacticocs/</guid>
-      <description>&lt;p&gt;The color–magnitude diagrams (CMDs) of Galactic open clusters are widely considered to be the prototypes of single stellar populations. By using photometry in ultraviolet and optical bands we discovered that the nearby
-young cluster NGC 6705 (M11) exhibits an extended main-sequence turnoff (eMSTO) and a broadened main sequence (MS). This is the first evidence of multiple stellar populations in a Galactic open cluster. By using high-
-resolution Very Large Telescope (VLT) spectra we provide direct evidence that the multiple sequences along the CMD correspond to stellar populations with different rotation rates. Specifically, the blue MS (bMS) is formed of
-slow-rotating stars, while red-MS (rMS) stars are fast rotators. Moreover, we exploit photometry from Gaia data release 2 (DR2) to show that three Galactic open clusters, namely NGC 2099, NGC 2360, and NGC 2818, exhibit
-the eMSTO, thus suggesting that it is a common feature among these objects. Previous work on the Large Magellanic Cloud star cluster NGC 1818 shows that slowly and rapidly rotating stars populate the bMS and rMS
-observed in its CMD. The similarities between M11 and the young clusters of the Magellanic Clouds (MCs) suggest that rotation is responsible for the appearance of multiple populations in the CMDs of both Milky Way
-open clusters and MCs young clusters.
-The photometric analysis of 12 Galactic open clusters in Cordoni et al. 2018 shows that the same multiple-population phenomenon observed in Magellanic Clouds (MCs) is present in nearby open clusters. Nearly all the clusters
-younger than ∼2.5 Gyr of both MCs exhibit extended main-sequence turnoffs (eMSTOs) and all the cluster younger than ∼700 Myr show broadened/split main sequences (MSs). High-resolution spectroscopy has revealed
-that these clusters host stars with a large spread in the observed projected rotations. In addition to rotation, internal age variation is indicated as possibly responsible for the eMSTOs, making these systems the possible young
-counterparts of globular clusters with multiple populations. Recent work has shown that the eMSTO+broadened MSs are not a peculiarity of MCs clusters. Similar photometric features have been discovered in a few Galactic
-open clusters, challenging the idea that the color–magnitude diagrams (CMDs) of these systems are similar to single isochrones and opening new windows to explore the eMSTO phenomenon. We exploit photometry+proper
-motions from Gaia DR2 to investigate the CMDs of open clusters younger than ∼1.5Gyr. Our analysis suggests that: (i) 12 open clusters show eMSTOs and/or broadened MSs, which cannot be due to either field contamination
-or binaries; (ii) split/broadened MSs are observed in clusters younger than ∼700 Myr, while older objects display only an eMSTO, similarly to MCs clusters; (iii) the eMSTO, if interpreted as a pure age spread, increases with age, following the relation observed in MCs clusters and demonstrating that rotation is responsible for this
-phenomenon.&lt;/p&gt;
+      <description>&lt;p&gt;Galactic open clusters were widely considered to be the prototypes of single stellar populations. By using photometry in ultraviolet and optical bands and high-resolution Very Large Telescope (VLT) spectroscopy [Marino et al. (2018)]() revealed that the nearby young cluster NGC 6705 (M11) exhibits an extended main-sequence turnoff (eMSTO) and a broadened main sequence (MS). This is the first evidence of multiple stellar populations in a Galactic open cluster. Furthermore, multiple sequences along the CMD correspond to stellar populations with different rotation rates. Specifically, the blue MS (bMS) is formed of slow-rotating stars, while red-MS (rMS) stars are fast rotators. In my &lt;em&gt;Ph.D.&lt;/em&gt; I exploited photometry from Gaia data release 2 (DR2) to show that the eMSTO is a common feature among Galactic Open clusters.&lt;br /&gt;
+High-resolution spectroscopy has revealed that these clusters host stars with a large spread in the observed projected rotations. However, in addition to rotation, internal age variation is indicated as possibly responsible for the eMSTOs, making these systems the possible young
+counterparts of globular clusters with multiple populations.
+Our analysis suggests that:&lt;/p&gt;
+
+&lt;p&gt;(i) 12 open clusters show eMSTOs and/or broadened MSs, which cannot be due to either field contamination
+or binaries&lt;/p&gt;
+
+&lt;p&gt;(ii) split/broadened MSs are observed in clusters younger than ∼700 Myr, while older objects display only an eMSTO, similarly to Magellanic Clouds clusters&lt;/p&gt;
+
+&lt;p&gt;(iii) the eMSTO, if interpreted as a pure age spread, increases with age, following the relation observed in Magellanic Clouds clusters and demonstrating that rotation is responsible for this phenomenon.&lt;/p&gt;
 </description>
     </item>
     

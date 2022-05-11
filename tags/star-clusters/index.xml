@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Star clusters on Giacomo Cordoni</title>
-    <link>https://www.gcordoni.com/tags/star-clusters/</link>
+    <link>https://gcordoni.com/tags/star-clusters/</link>
     <description>Recent content in Star clusters on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.gcordoni.com/tags/star-clusters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gcordoni.com/tags/star-clusters/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Galactic Open clusters</title>
-      <link>https://www.gcordoni.com/project/galacticocs/</link>
+      <link>https://gcordoni.com/project/galacticocs/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/galacticocs/</guid>
+      <guid>https://gcordoni.com/project/galacticocs/</guid>
       <description>Our reserach proved that nearby young clusters exhibits an extended main-sequence turnoff and a broadened main sequence. This is the first evidence of multiple stellar populations in a Galactic open cluster.</description>
     </item>
     
     <item>
       <title>Young Magellanic Clouds clusters</title>
-      <link>https://www.gcordoni.com/project/magellanicgcs/</link>
+      <link>https://gcordoni.com/project/magellanicgcs/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/magellanicgcs/</guid>
+      <guid>https://gcordoni.com/project/magellanicgcs/</guid>
       <description>The discovery of multiple populations in young and intermediate-age clusters has been one of the major findings in the field of stellar populations of the last decade.</description>
     </item>
     
     <item>
       <title>GALFOR</title>
-      <link>https://www.gcordoni.com/project/galfor/</link>
+      <link>https://gcordoni.com/project/galfor/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/galfor/</guid>
+      <guid>https://gcordoni.com/project/galfor/</guid>
       <description>GALFOR is an ERC funded project of Galactic archaeology (ERC-2016-STG, 716082) to address such hot topics of modern astrophysics</description>
     </item>
     

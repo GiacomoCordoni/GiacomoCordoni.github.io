@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giacomo Cordoni</title>
-    <link>https://www.gcordoni.com/</link>
+    <link>https://gcordoni.com/</link>
     <description>Recent content on Giacomo Cordoni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://www.gcordoni.com/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://gcordoni.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://www.gcordoni.com/courses/example/example1/</link>
+      <link>https://gcordoni.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.gcordoni.com/courses/example/example1/</guid>
+      <guid>https://gcordoni.com/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://www.gcordoni.com/courses/example/example2/</link>
+      <link>https://gcordoni.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.gcordoni.com/courses/example/example2/</guid>
+      <guid>https://gcordoni.com/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -85,109 +85,109 @@
     
     <item>
       <title>Cool Stars 20.5 - virtually cool</title>
-      <link>https://www.gcordoni.com/talk/conf6/</link>
+      <link>https://gcordoni.com/talk/conf6/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf6/</guid>
+      <guid>https://gcordoni.com/talk/conf6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the Galaxy&#39;s halo and very metal weak thick disk with SkyMapper and Gaia DR2</title>
-      <link>https://www.gcordoni.com/publication/paper17/</link>
+      <link>https://gcordoni.com/publication/paper17/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper17/</guid>
+      <guid>https://gcordoni.com/publication/paper17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple stellar populations along the red Horizontal Branch and Red Clump of Globular Clusters</title>
-      <link>https://www.gcordoni.com/publication/paper18/</link>
+      <link>https://gcordoni.com/publication/paper18/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper18/</guid>
+      <guid>https://gcordoni.com/publication/paper18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mass loss along the red giant branch in 46 Globular Clusters and their multiple populations</title>
-      <link>https://www.gcordoni.com/publication/paper16/</link>
+      <link>https://gcordoni.com/publication/paper16/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper16/</guid>
+      <guid>https://gcordoni.com/publication/paper16/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Local Group Assembly and Evolution</title>
-      <link>https://www.gcordoni.com/talk/conf5/</link>
+      <link>https://gcordoni.com/talk/conf5/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf5/</guid>
+      <guid>https://gcordoni.com/talk/conf5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>
-      <link>https://www.gcordoni.com/publication/paper14/</link>
+      <link>https://gcordoni.com/publication/paper14/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper14/</guid>
+      <guid>https://gcordoni.com/publication/paper14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A chromosome map to unveil stellar populations with different magnesium abundances. The case of Omega Centauri</title>
-      <link>https://www.gcordoni.com/publication/paper15/</link>
+      <link>https://gcordoni.com/publication/paper15/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper15/</guid>
+      <guid>https://gcordoni.com/publication/paper15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hubble Space Telescope UV Legacy Survey of Galactic globular clusters - XXI. Binaries among multiple stellar populations</title>
-      <link>https://www.gcordoni.com/publication/paper13/</link>
+      <link>https://gcordoni.com/publication/paper13/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper13/</guid>
+      <guid>https://gcordoni.com/publication/paper13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple populations in globular clusters and their parent galaxies</title>
-      <link>https://www.gcordoni.com/publication/paper12/</link>
+      <link>https://gcordoni.com/publication/paper12/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper12/</guid>
+      <guid>https://gcordoni.com/publication/paper12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Three-component Kinematics of Multiple Stellar Populations in Globular Clusters with Gaia and VLT</title>
-      <link>https://www.gcordoni.com/publication/paper11/</link>
+      <link>https://gcordoni.com/publication/paper11/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper11/</guid>
+      <guid>https://gcordoni.com/publication/paper11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Cluster Mass in the Multiple Populations of Galactic and Extragalactic Globular Clusters</title>
-      <link>https://www.gcordoni.com/publication/paper9/</link>
+      <link>https://gcordoni.com/publication/paper9/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper9/</guid>
+      <guid>https://gcordoni.com/publication/paper9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical Abundances along the 1G Sequence of the Chromosome Maps: The Globular Cluster NGC 3201</title>
-      <link>https://www.gcordoni.com/publication/paper10/</link>
+      <link>https://gcordoni.com/publication/paper10/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper10/</guid>
+      <guid>https://gcordoni.com/publication/paper10/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -209,10 +209,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Galactic archeology through Very Metal-Poor stars</title>
-      <link>https://www.gcordoni.com/project/metalpoor/</link>
+      <link>https://gcordoni.com/project/metalpoor/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/metalpoor/</guid>
+      <guid>https://gcordoni.com/project/metalpoor/</guid>
       <description>&lt;p&gt;In the last decade, the renewed interest toward very low-metallicity stars ([Fe/H]&amp;lt;-2) has culminated in a large number of spectroscopic and photometric surveys scanning extensive area of the sky in the attempt of finding these stars.
 These very rare objects are key ingredients for the understanding of the formation of the Milky Way, offering a unique perspective into the earliest phases of our infant Galaxy.
 Furthermore, in the last years, the advent of Gaia DR2, coupled with the outstanding improvements of the numerical techniques, led to the discovery of the debris of, at least, two major accretion events.
@@ -229,37 +229,37 @@ In this project, we combine the study of a large sample of very low-metallicity 
     
     <item>
       <title>Four stellar populations and extreme helium variation in the massive outer-halo globular cluster NGC 2419</title>
-      <link>https://www.gcordoni.com/publication/paper8/</link>
+      <link>https://gcordoni.com/publication/paper8/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper8/</guid>
+      <guid>https://gcordoni.com/publication/paper8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>European Week of Astronomy and Space Science (EWASS)</title>
-      <link>https://www.gcordoni.com/talk/conf4/</link>
+      <link>https://gcordoni.com/talk/conf4/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf4/</guid>
+      <guid>https://gcordoni.com/talk/conf4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A two orbits proposal to solve the age spread dilemma in young Magellanic Clouds clusters</title>
-      <link>https://www.gcordoni.com/publication/paper4/</link>
+      <link>https://gcordoni.com/publication/paper4/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper4/</guid>
+      <guid>https://gcordoni.com/publication/paper4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is helium the key parameter in the extended colour spread of the first generation stars in M3?</title>
-      <link>https://www.gcordoni.com/publication/paper7/</link>
+      <link>https://gcordoni.com/publication/paper7/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper7/</guid>
+      <guid>https://gcordoni.com/publication/paper7/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -281,37 +281,37 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Four stellar populations and extreme helium variation in the massive outer-halo globular cluster NGC 2419</title>
-      <link>https://www.gcordoni.com/nouse/paper4/</link>
+      <link>https://gcordoni.com/nouse/paper4/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/nouse/paper4/</guid>
+      <guid>https://gcordoni.com/nouse/paper4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IAU - Star Clusters. From the Milky Way to the Early Universe</title>
-      <link>https://www.gcordoni.com/talk/conf3/</link>
+      <link>https://gcordoni.com/talk/conf3/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf3/</guid>
+      <guid>https://gcordoni.com/talk/conf3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extended Main-sequence Turnoffs in the Double Cluster h and χ Persei: The Complex Role of Stellar Rotation</title>
-      <link>https://www.gcordoni.com/publication/paper3/</link>
+      <link>https://gcordoni.com/publication/paper3/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper3/</guid>
+      <guid>https://gcordoni.com/publication/paper3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hubble Space Telescope UV Legacy Survey of Galactic Globular Clusters. XIX. A Chemical Tagging of the Multiple Stellar Populations Over the Chromosome Maps</title>
-      <link>https://www.gcordoni.com/publication/paper6/</link>
+      <link>https://gcordoni.com/publication/paper6/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper6/</guid>
+      <guid>https://gcordoni.com/publication/paper6/</guid>
       <description>
 
 &lt;h1 id=&#34;div-class-alert-alert-note&#34;&gt;&amp;lt;!&amp;ndash; &lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
@@ -336,10 +336,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://www.gcordoni.com/nouse/preprint/</link>
+      <link>https://gcordoni.com/nouse/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/nouse/preprint/</guid>
+      <guid>https://gcordoni.com/nouse/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -352,10 +352,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Mass Loss of Different Stellar Populations in Globular Clusters: The Case of M4</title>
-      <link>https://www.gcordoni.com/publication/paper5/</link>
+      <link>https://gcordoni.com/publication/paper5/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper5/</guid>
+      <guid>https://gcordoni.com/publication/paper5/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -377,19 +377,19 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Galaxy coffee</title>
-      <link>https://www.gcordoni.com/talk/conf2/</link>
+      <link>https://gcordoni.com/talk/conf2/</link>
       <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf2/</guid>
+      <guid>https://gcordoni.com/talk/conf2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of Multiple Stellar Populations in Old Globular clusters</title>
-      <link>https://www.gcordoni.com/project/dynamics/</link>
+      <link>https://gcordoni.com/project/dynamics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/dynamics/</guid>
+      <guid>https://gcordoni.com/project/dynamics/</guid>
       <description>&lt;p&gt;Old Galactic Globular clusters (GCs) were once considered simple objects, composed of a simple stellar population, where all stars share the same age, chemistry and metallicity. In the last decades, the exquisite photometry provided by the &lt;em&gt;Hubble Space Telescope&lt;/em&gt; revealed the presence of Multiple Stellar populations with different light-element abundance in nearly all GCs. Their origin is one of the greatest mysteries of modern astrophysics.
 The internal dynamics of multiple stellar populations in globular clusters (GCs) provides unique constraints on the
 physical processes responsible for their formation. Specifically, the present-day kinematics of cluster stars, such as rotation and velocity dispersion, could be related to the initial configuration of the system. In recent work, we provided the first study of the kinematics of different stellar populations in NGC 0104 over a large field of view in
@@ -403,28 +403,28 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
     
     <item>
       <title>Extended main sequence turnoff as a common feature of galactic open clusters</title>
-      <link>https://www.gcordoni.com/publication/paper2/</link>
+      <link>https://gcordoni.com/publication/paper2/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper2/</guid>
+      <guid>https://gcordoni.com/publication/paper2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hubble Space Telescope UV legacy survey of galactic globular clusters - XVI. The helium abundance of multiple populations</title>
-      <link>https://www.gcordoni.com/publication/paper1/</link>
+      <link>https://gcordoni.com/publication/paper1/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/publication/paper1/</guid>
+      <guid>https://gcordoni.com/publication/paper1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaboration Network</title>
-      <link>https://www.gcordoni.com/post/getting-started/</link>
+      <link>https://gcordoni.com/post/getting-started/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/post/getting-started/</guid>
+      <guid>https://gcordoni.com/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
@@ -517,8 +517,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-1950s_huaf5482f8cea0c5a703a328640e3b7509_21614_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -544,8 +544,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-apogee_hu4b45d99db97150df01464c393bfd17d4_24119_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -571,8 +571,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-coffee-playfair_hu446a8f670cc5622adcc77b97ba95f6c5_22462_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -598,8 +598,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-cupcake_hueba8cfa8cfbc7543924fcbf387a99e92_23986_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -625,8 +625,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-dark_hu1e8601ecc47f58eada7743fdcd709d3d_21456_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -652,8 +652,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-default.png&#34; &gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-default.png&#34; &gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-default_huba6228b7bdf30e2f03f12ea91b2cba0d_21751_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -679,8 +679,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-forest_hu4f093a1c683134431456584193ea41ee_21797_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -706,8 +706,8 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://www.gcordoni.com/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://gcordoni.com/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://gcordoni.com/post/getting-started/gallery/theme-ocean_hu14831ccafc2219f30a7a096fa7617e01_21760_0x190_resize_lanczos_2.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -750,10 +750,10 @@ seven &lt;em&gt;type-I&lt;/em&gt; GCs, namely NGC 0104, NGC 0288, NGC 5904, NGC 
     
     <item>
       <title>Galactic Open clusters</title>
-      <link>https://www.gcordoni.com/project/galacticocs/</link>
+      <link>https://gcordoni.com/project/galacticocs/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/galacticocs/</guid>
+      <guid>https://gcordoni.com/project/galacticocs/</guid>
       <description>&lt;p&gt;Galactic open clusters were widely considered to be the prototypes of single stellar populations. By using photometry in ultraviolet and optical bands and high-resolution Very Large Telescope (VLT) spectroscopy [Marino et al. (2018)]() revealed that the nearby young cluster NGC 6705 (M11) exhibits an extended main-sequence turnoff (eMSTO) and a broadened main sequence (MS). This is the first evidence of multiple stellar populations in a Galactic open cluster. Furthermore, multiple sequences along the CMD correspond to stellar populations with different rotation rates. Specifically, the blue MS (bMS) is formed of slow-rotating stars, while red-MS (rMS) stars are fast rotators. In my &lt;em&gt;Ph.D.&lt;/em&gt; I exploited photometry from Gaia data release 2 (DR2) to show that the eMSTO is a common feature among Galactic Open clusters.&lt;br /&gt;
 High-resolution spectroscopy has revealed that these clusters host stars with a large spread in the observed projected rotations. However, in addition to rotation, internal age variation is indicated as possibly responsible for the eMSTOs, making these systems the possible young
 counterparts of globular clusters with multiple populations.
@@ -770,19 +770,19 @@ or binaries&lt;/p&gt;
     
     <item>
       <title>International Conference for Young Astronomers and Astrophysicists (ICYAA)</title>
-      <link>https://www.gcordoni.com/talk/conf1/</link>
+      <link>https://gcordoni.com/talk/conf1/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/talk/conf1/</guid>
+      <guid>https://gcordoni.com/talk/conf1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Young Magellanic Clouds clusters</title>
-      <link>https://www.gcordoni.com/project/magellanicgcs/</link>
+      <link>https://gcordoni.com/project/magellanicgcs/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/magellanicgcs/</guid>
+      <guid>https://gcordoni.com/project/magellanicgcs/</guid>
       <description>&lt;p&gt;The color-magnitude diagrams (CMDs) of nearly all the old Globular Clusters
 (GCs) host multiple sequences, which correspond to stellar populations with different chemical composition and, possibly, different ages. Their origin is one of the most-intriguing open issues of stellar astrophysics and would provide new constraints on the assembly of the Galaxy and on the re-ionization of the Universe.
 The recent discovery of multiple main sequences (MSs) and extended main-
@@ -802,20 +802,20 @@ if present, is smaller than 100 Myrs.&lt;/p&gt;
     
     <item>
       <title>GALFOR</title>
-      <link>https://www.gcordoni.com/project/galfor/</link>
+      <link>https://gcordoni.com/project/galfor/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/project/galfor/</guid>
+      <guid>https://gcordoni.com/project/galfor/</guid>
       <description>&lt;p&gt;GALFOR is a project of Galactic archaeology (ERC-2016-STG, 716082) to address such hot topics of modern astrophysics. We will exploit the unique dataset that the Hubble Space Telescope and the major ground-based facilities have collected for us to investigate a huge number of Galactic and extra-Galactic star clusters and their stellar populations. GALFOR will study the star clusters that we observe today to shed light on the series of events that occurred at high redshift and led to the formation of the globular clusters and of their multiple populations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extended main sequence turnoff as a common feature of galactic open clusters</title>
-      <link>https://www.gcordoni.com/nouse/paper14/</link>
+      <link>https://gcordoni.com/nouse/paper14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gcordoni.com/nouse/paper14/</guid>
+      <guid>https://gcordoni.com/nouse/paper14/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

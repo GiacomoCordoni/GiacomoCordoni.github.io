@@ -3,758 +3,758 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gcordoni.com/courses/example/example1/</loc>
+    <loc>https://gcordoni.com/courses/example/example1/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/courses/example/</loc>
+    <loc>https://gcordoni.com/courses/example/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/courses/example/example2/</loc>
+    <loc>https://gcordoni.com/courses/example/example2/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/</loc>
+    <loc>https://gcordoni.com/authors/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/talk/conf6/</loc>
+    <loc>https://gcordoni.com/talk/conf6/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/giacomo-cordoni/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/</loc>
+    <loc>https://gcordoni.com/authors/giacomo-cordoni/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication_types/2/</loc>
+    <loc>https://gcordoni.com/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/publication_types/2/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/amarsi-a.-m./</loc>
+    <loc>https://gcordoni.com/authors/amarsi-a.-m./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/asplund-m./</loc>
+    <loc>https://gcordoni.com/authors/asplund-m./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/bessell-m.-s./</loc>
+    <loc>https://gcordoni.com/authors/bessell-m.-s./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/casey-a.-r./</loc>
+    <loc>https://gcordoni.com/authors/casey-a.-r./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/cordoni-g./</loc>
+    <loc>https://gcordoni.com/authors/cordoni-g./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/da-costa-g.-s./</loc>
+    <loc>https://gcordoni.com/authors/da-costa-g.-s./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper17/</loc>
+    <loc>https://gcordoni.com/publication/paper17/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/frebel-a./</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/gao-x.-d./</loc>
+    <loc>https://gcordoni.com/authors/frebel-a./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/lind-k./</loc>
+    <loc>https://gcordoni.com/authors/gao-x.-d./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/mackey-a.-d./</loc>
+    <loc>https://gcordoni.com/authors/lind-k./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/marino-a.-f./</loc>
+    <loc>https://gcordoni.com/authors/mackey-a.-d./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/milone-a.-p./</loc>
+    <loc>https://gcordoni.com/authors/marino-a.-f./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/monty-s./</loc>
+    <loc>https://gcordoni.com/authors/milone-a.-p./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/murphy-s.-j./</loc>
+    <loc>https://gcordoni.com/authors/monty-s./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/nordlander-t./</loc>
+    <loc>https://gcordoni.com/authors/murphy-s.-j./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/norris-j.-e./</loc>
+    <loc>https://gcordoni.com/authors/nordlander-t./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication_types/</loc>
+    <loc>https://gcordoni.com/authors/norris-j.-e./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/schmidt-b.-p./</loc>
+    <loc>https://gcordoni.com/publication_types/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/source-themes/</loc>
+    <loc>https://gcordoni.com/authors/schmidt-b.-p./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/</loc>
+    <loc>https://gcordoni.com/tags/source-themes/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/xylakis-dornbusch-t./</loc>
+    <loc>https://gcordoni.com/tags/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/yong-d./</loc>
+    <loc>https://gcordoni.com/authors/xylakis-dornbusch-t./</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/carlos-m.-g./</loc>
+    <loc>https://gcordoni.com/authors/yong-d./</loc>
+    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/carlos-m.-g./</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/dondoglio-e./</loc>
+    <loc>https://gcordoni.com/authors/dondoglio-e./</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/jang-s./</loc>
+    <loc>https://gcordoni.com/authors/jang-s./</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/lagioia-e.-p./</loc>
+    <loc>https://gcordoni.com/authors/lagioia-e.-p./</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper18/</loc>
+    <loc>https://gcordoni.com/publication/paper18/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/tailo-m./</loc>
+    <loc>https://gcordoni.com/authors/tailo-m./</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/caloi-v./</loc>
+    <loc>https://gcordoni.com/authors/caloi-v./</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/dantona-f./</loc>
+    <loc>https://gcordoni.com/authors/dantona-f./</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper16/</loc>
+    <loc>https://gcordoni.com/publication/paper16/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/ventura-p./</loc>
-    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/vesperini-e./</loc>
+    <loc>https://gcordoni.com/authors/ventura-p./</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/talk/conf5/</loc>
+    <loc>https://gcordoni.com/authors/vesperini-e./</loc>
+    <lastmod>2020-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/talk/conf5/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper14/</loc>
+    <loc>https://gcordoni.com/publication/paper14/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/jerjen-h./</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/mastrobuono-battisti-a./</loc>
+    <loc>https://gcordoni.com/authors/jerjen-h./</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper15/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/carlos-m./</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <loc>https://gcordoni.com/authors/mastrobuono-battisti-a./</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/li-c./</loc>
+    <loc>https://gcordoni.com/publication/paper15/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/renzini-a./</loc>
+    <loc>https://gcordoni.com/authors/carlos-m./</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/anderson-j./</loc>
+    <loc>https://gcordoni.com/authors/li-c./</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/renzini-a./</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/anderson-j./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/bedin-l.-r./</loc>
+    <loc>https://gcordoni.com/authors/bedin-l.-r./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/bellini-a./</loc>
+    <loc>https://gcordoni.com/authors/bellini-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/brown-t.-m./</loc>
+    <loc>https://gcordoni.com/authors/brown-t.-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/cool-a./</loc>
+    <loc>https://gcordoni.com/authors/cool-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/hong-j./</loc>
+    <loc>https://gcordoni.com/authors/hong-j./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/libralato-m./</loc>
+    <loc>https://gcordoni.com/authors/libralato-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/nardiello-d./</loc>
+    <loc>https://gcordoni.com/authors/nardiello-d./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/piotto-g./</loc>
+    <loc>https://gcordoni.com/authors/piotto-g./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/salaris-m./</loc>
+    <loc>https://gcordoni.com/authors/salaris-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/sarajedini-a./</loc>
+    <loc>https://gcordoni.com/authors/sarajedini-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper13/</loc>
+    <loc>https://gcordoni.com/publication/paper13/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/van-der-marel-r.-p./</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/asad-r./</loc>
+    <loc>https://gcordoni.com/authors/van-der-marel-r.-p./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/baumgardt-h./</loc>
+    <loc>https://gcordoni.com/authors/asad-r./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/goudfrooij-p./</loc>
+    <loc>https://gcordoni.com/authors/baumgardt-h./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/hilker-m./</loc>
+    <loc>https://gcordoni.com/authors/goudfrooij-p./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/massari-d./</loc>
+    <loc>https://gcordoni.com/authors/hilker-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper12/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/publication/paper11/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/ventura-e.-m./</loc>
+    <loc>https://gcordoni.com/authors/massari-d./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper9/</loc>
+    <loc>https://gcordoni.com/publication/paper12/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper10/</loc>
+    <loc>https://gcordoni.com/publication/paper11/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/galactic-archeology/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/project/metalpoor/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/karakas-a./</loc>
+    <loc>https://gcordoni.com/authors/ventura-e.-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/metal-poor-stars/</loc>
+    <loc>https://gcordoni.com/publication/paper9/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/publication/paper10/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/galactic-archeology/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/milky-way/</loc>
+    <loc>https://gcordoni.com/project/metalpoor/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/karakas-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/project/</loc>
+    <loc>https://gcordoni.com/tags/metal-poor-stars/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/sills-a./</loc>
+    <loc>https://gcordoni.com/tags/milky-way/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper8/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/zennaro-m./</loc>
+    <loc>https://gcordoni.com/project/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/talk/conf4/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/publication_types/8/</loc>
+    <loc>https://gcordoni.com/authors/sills-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper4/</loc>
+    <loc>https://gcordoni.com/publication/paper8/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/cignoni-m./</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/publication/paper7/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/nouse/paper4/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/talk/conf3/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/nouse/</loc>
+    <loc>https://gcordoni.com/authors/zennaro-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/deng-l./</loc>
+    <loc>https://gcordoni.com/talk/conf4/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/publication_types/8/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper3/</loc>
+    <loc>https://gcordoni.com/publication/paper4/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/sun-w./</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/publication/paper6/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/wang-k./</loc>
+    <loc>https://gcordoni.com/authors/cignoni-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/de-grijs-r./</loc>
+    <loc>https://gcordoni.com/publication/paper7/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/nouse/paper4/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/talk/conf3/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/nouse/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication_types/3/</loc>
+    <loc>https://gcordoni.com/authors/deng-l./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/nouse/preprint/</loc>
+    <loc>https://gcordoni.com/publication/paper3/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper5/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/talk/conf2/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/project/dynamics/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/tags/globular-clusters/</loc>
+    <loc>https://gcordoni.com/authors/sun-w./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/internal-dynamics/</loc>
+    <loc>https://gcordoni.com/publication/paper6/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/wang-k./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/multiple-stellar-populations/</loc>
+    <loc>https://gcordoni.com/authors/de-grijs-r./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/barbuy-b./</loc>
+    <loc>https://gcordoni.com/publication_types/3/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/cassisi-s./</loc>
+    <loc>https://gcordoni.com/nouse/preprint/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/publication/paper5/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/talk/conf2/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/project/dynamics/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/globular-clusters/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/di-criscienzo-m./</loc>
+    <loc>https://gcordoni.com/tags/internal-dynamics/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/dotter-a./</loc>
+    <loc>https://gcordoni.com/tags/multiple-stellar-populations/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper2/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/authors/ortolani-s./</loc>
+    <loc>https://gcordoni.com/authors/barbuy-b./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/paper1/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/tags/academic/</loc>
+    <loc>https://gcordoni.com/authors/cassisi-s./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/post/getting-started/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/tags/gaia-dr2/</loc>
+    <loc>https://gcordoni.com/authors/di-criscienzo-m./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/project/galacticocs/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/tags/star-clusters/</loc>
+    <loc>https://gcordoni.com/authors/dotter-a./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/stellar-rotation/</loc>
+    <loc>https://gcordoni.com/publication/paper2/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/ortolani-s./</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/young-open-clusters/</loc>
+    <loc>https://gcordoni.com/publication/paper1/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/academic/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/young-clusters/</loc>
+    <loc>https://gcordoni.com/post/getting-started/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/gaia-dr2/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/talk/conf1/</loc>
+    <loc>https://gcordoni.com/project/galacticocs/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/magellanic-clouds/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/project/magellanicgcs/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/project/galfor/</loc>
-    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/tags/galactic-archaeology/</loc>
+    <loc>https://gcordoni.com/tags/star-clusters/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/internal-dynamics-of-star-clusters/</loc>
+    <loc>https://gcordoni.com/tags/stellar-rotation/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/tags/open-clusters/</loc>
+    <loc>https://gcordoni.com/tags/young-open-clusters/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/authors/admin/</loc>
+    <loc>https://gcordoni.com/tags/young-clusters/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gcordoni.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/courses/</loc>
+    <loc>https://gcordoni.com/talk/conf1/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/nouse/paper14/</loc>
+    <loc>https://gcordoni.com/tags/magellanic-clouds/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/project/magellanicgcs/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/talk/</loc>
+    <loc>https://gcordoni.com/project/galfor/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/post/</loc>
+    <loc>https://gcordoni.com/tags/galactic-archaeology/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/internal-dynamics-of-star-clusters/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/tags/open-clusters/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/authors/admin/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/courses/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/nouse/paper14/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/talk/</loc>
+    <lastmod>2020-04-20T14:14:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gcordoni.com/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gcordoni.com/publication/</loc>
+    <loc>https://gcordoni.com/publication/</loc>
     <lastmod>2020-04-20T14:14:03+02:00</lastmod>
   </url>
   

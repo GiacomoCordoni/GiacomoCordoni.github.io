@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mastrobuono-Battisti A. on Giacomo Cordoni</title>
-    <link>https://www.giacomocordoni.me/authors/mastrobuono-battisti-a./</link>
+    <link>https://www.gcordoni.com/authors/mastrobuono-battisti-a./</link>
     <description>Recent content in Mastrobuono-Battisti A. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.giacomocordoni.me/authors/mastrobuono-battisti-a./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gcordoni.com/authors/mastrobuono-battisti-a./index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gaia and Hubble unveil the kinematics of stellar populations in the Type II globular clusters Omega Centauri and M 22</title>
-      <link>https://www.giacomocordoni.me/publication/paper14/</link>
+      <link>https://www.gcordoni.com/publication/paper14/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.giacomocordoni.me/publication/paper14/</guid>
+      <guid>https://www.gcordoni.com/publication/paper14/</guid>
       <description>Internal dynamics of anomalous/type-II globular clusters combining Gaia astrometric information with HST proper motions</description>
     </item>
     
     <item>
       <title>Three-component Kinematics of Multiple Stellar Populations in Globular Clusters with Gaia and VLT</title>
-      <link>https://www.giacomocordoni.me/publication/paper11/</link>
+      <link>https://www.gcordoni.com/publication/paper11/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.giacomocordoni.me/publication/paper11/</guid>
+      <guid>https://www.gcordoni.com/publication/paper11/</guid>
       <description>Analysis of the internal kinematics of multiple stellar populations in 7 galactic Globular clusters</description>
     </item>
     

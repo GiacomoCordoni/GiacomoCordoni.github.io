@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internal dynamics on Giacomo Cordoni</title>
-    <link>https://www.giacomocordoni.me/tags/internal-dynamics/</link>
+    <link>https://www.gcordoni.com/tags/internal-dynamics/</link>
     <description>Recent content in Internal dynamics on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.giacomocordoni.me/tags/internal-dynamics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gcordoni.com/tags/internal-dynamics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dynamics of Multiple Stellar Populations in Old Globular clusters</title>
-      <link>https://www.giacomocordoni.me/project/dynamics/</link>
+      <link>https://www.gcordoni.com/project/dynamics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.giacomocordoni.me/project/dynamics/</guid>
+      <guid>https://www.gcordoni.com/project/dynamics/</guid>
       <description>The presence and origin of Multiple stellar populations in Globular Clusters is one of the greatest mysteries of modern astrophysics.</description>
     </item>
     

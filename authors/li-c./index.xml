@@ -6,10 +6,19 @@
     <description>Recent content in Li C. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gcordoni.com/authors/li-c./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results</title>
+      <link>https://gcordoni.com/publication/paper20/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcordoni.com/publication/paper20/</guid>
+      <description>Homogeneous HST photometry and astrometry of 113 clusters revels unexpcted results in the context of young star clusters in the Magellanic Clouds</description>
+    </item>
     
     <item>
       <title>A chromosome map to unveil stellar populations with different magnesium abundances. The case of Omega Centauri</title>

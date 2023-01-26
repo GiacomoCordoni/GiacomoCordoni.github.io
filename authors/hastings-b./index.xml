@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hastings B. on Giacomo Cordoni</title>
+    <link>https://gcordoni.com/authors/hastings-b./</link>
+    <description>Recent content in Hastings B. on Giacomo Cordoni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://gcordoni.com/authors/hastings-b./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results</title>
+      <link>https://gcordoni.com/publication/paper20/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcordoni.com/publication/paper20/</guid>
+      <description>Homogeneous HST photometry and astrometry of 113 clusters revels unexpcted results in the context of young star clusters in the Magellanic Clouds</description>
+    </item>
+    
+  </channel>
+</rss>

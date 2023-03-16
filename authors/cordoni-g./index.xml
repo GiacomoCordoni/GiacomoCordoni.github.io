@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cordoni, G. on Giacomo Cordoni</title>
+    <title>Cordoni G. on Giacomo Cordoni</title>
     <link>https://gcordoni.com/authors/cordoni-g./</link>
-    <description>Recent content in Cordoni, G. on Giacomo Cordoni</description>
+    <description>Recent content in Cordoni G. on Giacomo Cordoni</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gcordoni.com/authors/cordoni-g./index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters</title>
+      <link>https://gcordoni.com/publication/paper21/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gcordoni.com/publication/paper21/</guid>
+      <description>Photometric binaries, mass functions, and structural parameters of 78 Galactic open clusters</description>
+    </item>
     
     <item>
       <title>Hubble Space Telescope survey of Magellanic Cloud star clusters. Photometry and astrometry of 113 clusters and early results</title>
